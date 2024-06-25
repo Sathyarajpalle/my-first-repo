@@ -1,1 +1,1 @@
-this is my file created using git command
+This is the text typed using git command and will push it to the server
